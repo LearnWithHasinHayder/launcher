@@ -1,0 +1,21 @@
+/*
+Theme Name: Launcher
+Theme URI:
+Author: LWHH
+Author URI: https://learnwith.hasinhayder.com
+Description: Our First HyperMinimal Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, education
+Text Domain: launcher
+*/
+
+#fh5co-logo a{
+    font-size: 48px;
+    color: #222 !important;
+}
+
+#fh5co-logo{
+    margin-top: 30px;
+}
